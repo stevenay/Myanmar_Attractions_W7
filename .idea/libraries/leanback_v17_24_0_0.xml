@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="leanback-v17-24.0.0">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/tv/build/intermediates/exploded-aar/com.android.support/leanback-v17/24.0.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/tv/build/intermediates/exploded-aar/com.android.support/leanback-v17/24.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/tv/build/intermediates/exploded-aar/com.android.support/leanback-v17/24.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/Development/android/android-sdk-macosx/extras/android/m2repository/com/android/support/leanback-v17/24.0.0/leanback-v17-24.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/leanback-v17/24.0.0/e3ac41f33accb0940de0b294766c4876efc1b6f3/leanback-v17-24.0.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

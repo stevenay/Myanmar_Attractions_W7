@@ -29,6 +29,17 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="xyz.aungpyaephyo.padc.myanmarattractions.activities.HomeActivity" />
         </activity>
+        <activity
+            android:name=".activities.AccountControlActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+
+
+        <provider
+            android:authorities="xyz.aungpyaephyo.padc.myanmarattractions"
+            android:name=".data.persistence.AttractionProvider"
+            android:exported="false"
+            android:syncable="true" />
     </application>
 
 </manifest>
